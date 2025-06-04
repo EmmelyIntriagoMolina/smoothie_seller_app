@@ -1,5 +1,5 @@
 # smoothie_seller_app
-Technical specifications and instructions
+Technical specifications
   1. Console application using Java.
   2. Language for variables and messages into the source code and/or application are in “English”.
   3. Data not persist when the user exits the application (no database required).
